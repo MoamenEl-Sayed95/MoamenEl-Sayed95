@@ -6,9 +6,6 @@ I'm a passionate backend engineer with a foundation in C++. I have a strong inte
 - 💻 Programming Languages: C++, JavaScript, TypeScript, Python, HTML, CSS
 - ⚙️ Tools & Technologies: Git, GitHub, VS Code, MongoDB, Express.js, Postman
 
-## 📂 Featured Projects
-- [C++ Console Apps](https://github.com/MoamenEl-Sayed95/Cpp_Apps):  A Collection Of Small C++ Console Apps.
-
 ## 📫 Contact Me
 - 📧 Email: [My Email](mailto:moamenprogrammer95@gmail.com)
 - 💼 LinkedIn: [Moamen Abouhaty](https://www.linkedin.com/in/moamen-abouhaty-19054b355)
