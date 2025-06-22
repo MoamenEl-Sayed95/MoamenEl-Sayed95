@@ -7,7 +7,7 @@ I'm a passionate backend engineer with a foundation in C++. I have a strong inte
 - ⚙️ Tools & Technologies: Git, GitHub, VS Code, MongoDB, Express.js, Postman
 
 ## 📫 Contact Me
-- 📧 Email: [My Email](mailto:moamenprogrammer95@gmail.com)
+- 📧 Email: [Moamen Abouhaty](mailto:moamenprogrammer95@gmail.com)
 - 💼 LinkedIn: [Moamen Abouhaty](https://www.linkedin.com/in/moamen-abouhaty-19054b355)
 
 ## 🖥️ Programming Languages & Technologies I Use
@@ -23,4 +23,6 @@ I'm a passionate backend engineer with a foundation in C++. I have a strong inte
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
 </p>
+
