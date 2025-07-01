@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Moamen El-Sayed Abouhaty 🧑🏻‍💻 
 
-I'm a passionate backend engineer with a foundation in C++. I have a strong interest in continuous learning and building powerful backends using Node.js and Express.js. I enjoy working with databases and building APIs, and I'm constantly striving to improve myself, gain experience and knowledge, and enhance my problem-solving skills.
+I'm a passionate backend engineer with a foundation in C++. I have a strong interest in continuous learning and building powerful backends using Node.js and Express.js. I love working on databases and creating APIs., and I'm constantly striving to improve myself, gain experience and knowledge, and enhance my problem-solving skills.
 
 ## 🛠️ Technical Skills
 - 💻 Programming Languages: C++, JavaScript, TypeScript, Python, Lua, HTML, CSS.
