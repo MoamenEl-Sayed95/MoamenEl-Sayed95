@@ -10,8 +10,8 @@ I'm a passionate backend engineer with a foundation in C++. I have a strong inte
 
 ## 📫 Contact Me:
 
-- 📧 Email: [moamenprogrammer95@gmail.com](mailto:moamenprogrammer95@gmail.com)
-- 💼 LinkedIn: [Moamen Abouhaty](https://www.linkedin.com/in/moamen-abouhaty-19054b355)
+- 📧 Official Email: [Moamen Abouhaty](mailto:moamenprogrammer95@gmail.com)
+- 💼 LinkedIn:[Moamen Abouhaty](https://www.linkedin.com/in/moamen-abouhaty-19054b355)
 
 ## 💻 Programming Languages I Use:
 
