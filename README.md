@@ -6,12 +6,12 @@ I'm a passionate backend engineer with a foundation in C++. I have a strong inte
 
 - 💻 Programming Languages: C, C++, JavaScript, TypeScript, Python, Lua.
 - 🎨 Markup & Styling: HTML, CSS.
-- 🧰 Tools & Technologies: VS Code, Node.js, Express.js, MongoDB, Postman, Git, GitHub.
+- 🧰 Tools & Technologies: VS Code, Visual Studio, PyCharm, Node.js, Express.js, Nodemon, NPM, MongoDB, PostgreSQL, Postman, Git, GitHub.
 
 ## 📫 Contact Me:
 
 - 📧 Official Email: [Moamen Abouhaty](mailto:moamenprogrammer95@gmail.com)
-- 💼 LinkedIn:[Moamen Abouhaty](https://www.linkedin.com/in/moamen-abouhaty-19054b355)
+- 💼 LinkedIn: [Moamen Abouhaty](https://www.linkedin.com/in/moamen-abouhaty-19054b355)
 
 ## 💻 Programming Languages I Use:
 
@@ -34,11 +34,17 @@ I'm a passionate backend engineer with a foundation in C++. I have a strong inte
 ## 🧰 Tools & Technologies:
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="40" height="40"/>
   <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" alt="Windows 11" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" alt="Archlinux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="80" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" alt="Nodemon" width="60" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="NPM" width="60" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="Git" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="Git" width="40" height="40" />
