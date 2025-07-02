@@ -51,5 +51,5 @@ I'm a passionate backend engineer with a foundation in C++. I have a strong inte
 </p>
 
 ## 📜 Certifications: 
-- 📜 []()
-- 📜 []()
+- 📜 [Basic Git and GitHub - essentials](https://udemy-certificate.s3.amazonaws.com/image/UC-6c2fdae4-4ab4-4d55-971e-65f7b69327a7.jpg?v=1750929687000)
+- 📜 [Node.js The Complete Bootcamp](https://udemy-certificate.s3.amazonaws.com/image/UC-265b2be4-b0f7-46af-8bd8-c6593ee72344.jpg?v=1750862209000)
