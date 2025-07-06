@@ -24,14 +24,14 @@ I'm a passionate backend engineer with a foundation in C++. I have a strong inte
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40" title="Lua"/>
 </p>
 
-## 🎨 Markup & Styling:
+## 🎨 Markup & Styling I Use:
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
 </p>
 
-## 🧰 Tools & Technologies:
+## 🧰 Tools & Utilities I Use:
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" title="Visual Studio Code"/>
