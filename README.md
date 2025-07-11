@@ -51,7 +51,12 @@ I'm a passionate backend engineer with a foundation in C++. I have a strong inte
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40" title="Webpack" />
 </p>
 
+## 🌟 Platforms:
+- [Codewars](https://www.codewars.com/users/MoamenEl-Sayed95)
+- [Leetcode](https://leetcode.com/u/Moamen_Abouhaty95)
+
 ## 📜 Certifications: 
 - 📜 [Node.js The Complete Bootcamp](https://udemy-certificate.s3.amazonaws.com/image/UC-265b2be4-b0f7-46af-8bd8-c6593ee72344.jpg)
 - 📜 [Basic Git and GitHub - essentials](https://udemy-certificate.s3.amazonaws.com/image/UC-6c2fdae4-4ab4-4d55-971e-65f7b69327a7.jpg)
 - 📜 [Mastering TypeScript 2025 Edition](https://udemy-certificate.s3.amazonaws.com/image/UC-a7969821-7b79-42b9-ba66-72f07490474f.jpg)
+  
