@@ -4,7 +4,7 @@ I'm a passionate backend engineer with a foundation in C++. I have a strong inte
 
 ## 🛠️ Technical Skills:
 
-- 💻 Programming Languages: C, C++, JavaScript, TypeScript, Python, Lua.
+- 💻 Programming Languages: C, C++, C#, Rust, JavaScript, TypeScript, Python, Lua.
 - 🎨 Markup & Styling: HTML, CSS.
 - 🧰 Tools & Technologies: VS Code, Visual Studio, PyCharm, Node.js, Express.js, Nodemon, NPM, MongoDB, PostgreSQL, Postman, Git, GitHub.
 
@@ -18,6 +18,8 @@ I'm a passionate backend engineer with a foundation in C++. I have a strong inte
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="40" height="40" title="Rust"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
