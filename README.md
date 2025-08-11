@@ -58,6 +58,7 @@ I'm a passionate backend engineer with a foundation in C++. I have a strong inte
 ## 🌟 Platforms:
 - [Codewars](https://www.codewars.com/users/MoamenEl-Sayed95)
 - [Leetcode](https://leetcode.com/u/Moamen_Abouhaty95)
+- [HackerRank](https://www.hackerrank.com/dashboard)
 
 ## 📜 Certifications: 
 - 📜 [Node.js The Complete Bootcamp](https://udemy-certificate.s3.amazonaws.com/image/UC-265b2be4-b0f7-46af-8bd8-c6593ee72344.jpg)
