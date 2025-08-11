@@ -58,7 +58,7 @@ I'm a passionate backend engineer with a foundation in C++. I have a strong inte
 ## 🌟 Platforms:
 - [Codewars](https://www.codewars.com/users/MoamenEl-Sayed95)
 - [Leetcode](https://leetcode.com/u/Moamen_Abouhaty95)
-- [HackerRank](https://www.hackerrank.com/dashboard)
+- [HackerRank](https://www.hackerrank.com/profile/codemaker95)
 
 ## 📜 Certifications: 
 - 📜 [Node.js The Complete Bootcamp](https://udemy-certificate.s3.amazonaws.com/image/UC-265b2be4-b0f7-46af-8bd8-c6593ee72344.jpg)
@@ -67,5 +67,4 @@ I'm a passionate backend engineer with a foundation in C++. I have a strong inte
 - 📜 [DBMS Fundamentals](https://it-sharks.com/identity/certificates/courses/thumbs/C-377660.png?)
   
 ## 🏅 HackerRank Badges:
-![HackerRank Badges](https://raw.githubusercontent.com/MoamenEl-Sayed95/MoamenEl-Sayed95/refs/heads/main/my_badges.jpg)
-
+[![HackerRank Badges](https://raw.githubusercontent.com/MoamenEl-Sayed95/MoamenEl-Sayed95/refs/heads/main/my_badges.jpg)](https://www.hackerrank.com/profile/codemaker95)
