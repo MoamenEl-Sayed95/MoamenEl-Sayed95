@@ -67,4 +67,4 @@ I'm a passionate backend engineer with a foundation in C++. I have a strong inte
 - 📜 [DBMS Fundamentals](https://it-sharks.com/identity/certificates/courses/thumbs/C-377660.png?)
   
 ## 🏅 HackerRank Badges:
-[![HackerRank Badges](https://raw.githubusercontent.com/MoamenEl-Sayed95/MoamenEl-Sayed95/refs/heads/main/my_badges.jpg)](https://www.hackerrank.com/profile/codemaker95)
+[![HackerRank Badges](https://raw.githubusercontent.com/MoamenEl-Sayed95/MoamenEl-Sayed95/refs/heads/main/my_badges1.jpg)](https://www.hackerrank.com/profile/codemaker95)
