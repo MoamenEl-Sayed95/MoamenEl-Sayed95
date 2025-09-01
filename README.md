@@ -65,7 +65,7 @@ I'm a passionate backend engineer with a foundation in C++. I have a strong inte
 - 📜 [Basic Git and GitHub - essentials](https://udemy-certificate.s3.amazonaws.com/image/UC-6c2fdae4-4ab4-4d55-971e-65f7b69327a7.jpg)
 - 📜 [Mastering TypeScript 2025 Edition](https://udemy-certificate.s3.amazonaws.com/image/UC-a7969821-7b79-42b9-ba66-72f07490474f.jpg)
 - 📜 [DBMS Fundamentals](https://it-sharks.com/identity/certificates/courses/thumbs/C-377660.png?)
-- [C++ Programming Language](https://it-sharks.com/identity/certificates/courses/thumbs/C-377730.png)
+- 📜 [C++ Programming Language](https://it-sharks.com/identity/certificates/courses/thumbs/C-377730.png)
   
 ## 🏅 HackerRank Badges:
 [![HackerRank Badges](https://raw.githubusercontent.com/MoamenEl-Sayed95/MoamenEl-Sayed95/refs/heads/main/HackerRank_my_badges.png)](https://www.hackerrank.com/profile/codemaker95)
